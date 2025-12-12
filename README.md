@@ -1,4 +1,4 @@
-# 🐱‍👤 Tenpo0000
+# 🐦‍⬛ Tenpo0000
 
 **`Estudante de Programação`**
 
