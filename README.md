@@ -26,4 +26,4 @@ Me chamo Laerte Dutra, tenho 20 anos. Concluí o ensino médio, concluí o curso
 </div>
 
 ---
-![Snake animation](https://github.com/Tenpo0000/Tenpo0000/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://Tenpo0000.github.io/Tenpo0000/github-contribution-grid-snake.svg)
