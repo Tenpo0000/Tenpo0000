@@ -22,7 +22,7 @@ Me chamo Laerte Dutra, tenho 20 anos. Concluí o ensino médio, concluí o curso
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🔹 Linguagens e Tecnologias
 <img 
     align="left" 
     alt="Git" 
