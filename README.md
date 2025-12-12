@@ -1,4 +1,4 @@
-# 🐦‍⬛ Tenpo0000
+# Tenpo0000
 
 **`Estudante de Programação`**
 
@@ -25,12 +25,25 @@ Me chamo Laerte Dutra, tenho 20 anos. Concluí o ensino médio, concluí o curso
 ### 🔹 Linguagens e Tecnologias
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Java"
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+
+
+
+<img 
+    align="left" 
+    alt="C"
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+
+
 <img 
     align="left" 
     alt="Python" 
@@ -40,6 +53,33 @@ Me chamo Laerte Dutra, tenho 20 anos. Concluí o ensino médio, concluí o curso
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Android"
+    title="Android"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"
+/>
+
+<img
+  align="left"
+  alt="XML"
+  title="XML"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg"
+/>
 <br/>
 <br/>
 
@@ -52,13 +92,13 @@ Me chamo Laerte Dutra, tenho 20 anos. Concluí o ensino médio, concluí o curso
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Tenpo0000&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tenpo0000&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
