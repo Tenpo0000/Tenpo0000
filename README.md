@@ -11,7 +11,7 @@ Me chamo Laerte Dutra, tenho 20 anos. Concluí o ensino médio, concluí o curso
             src="https://custom-icon-badges.demolab.com/github/stars/Tenpo0000?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Tenpo0000?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
