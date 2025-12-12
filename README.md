@@ -8,14 +8,22 @@ Me chamo Laerte Dutra, tenho 20 anos. Concluí o ensino médio, concluí o curso
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Tenpo0000?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Tenpo0000?color=ffd700&style=for-the-badge&labelColor=ffd700&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Tenpo0000?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Tenpo0000?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Tenpo0000?color=1155ba&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+
+<a href="https://www.linkedin.com/in/SEU-LINK-AQUI">
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Tenpo0000?color=186d90&labelColor=186d90&style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
@@ -33,17 +41,6 @@ Me chamo Laerte Dutra, tenho 20 anos. Concluí o ensino médio, concluí o curso
 />
 
 
-
-<img 
-    align="left" 
-    alt="C"
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-
-
 <img 
     align="left" 
     alt="Python" 
@@ -51,25 +48,6 @@ Me chamo Laerte Dutra, tenho 20 anos. Concluí o ensino médio, concluí o curso
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Android"
-    title="Android"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"
 />
 
 <img
@@ -80,25 +58,29 @@ Me chamo Laerte Dutra, tenho 20 anos. Concluí o ensino médio, concluí o curso
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg"
 />
-<br/>
-<br/>
-
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Tenpo0000&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tenpo0000&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    align="left" 
+    alt="Android"
+    title="Android"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"
+/>
+<br/>
+<br/>
+### 📊 Estatísticas
+
+<p align="left">
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Tenpo0000&show_icons=true&theme=tokyonight"
+  />
+          &nbsp;&nbsp;&nbsp;
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tenpo0000&layout=compact&theme=tokyonight"
   />
 </p>
+
+
