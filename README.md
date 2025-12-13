@@ -1,5 +1,3 @@
-# Tenpo0000
-
 **`Estudante de Programação`**
 
 Me chamo Laerte Dutra, tenho 20 anos. Concluí o ensino médio, concluí o curso em informática. Atualmente, estou cursando técnico em programação de aplicativos no SENAI.
