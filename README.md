@@ -26,13 +26,13 @@
 
 <br/><br/>
 
-## 💫 Sobre mim
+##  Sobre mim
 <br/>
 
 <img 
   align="right"
-  width="320"
-  src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"
+  width="200"
+  src="https://media.tenor.com/f4VUloEfWN0AAAAM/zouvi-bem-v-indo.gif"
 />
 
 - 💻 **Estudante de Programação**
@@ -43,51 +43,20 @@
 
 <br/>
 
----
-
-## 🔗 Conecte-se comigo
-
 <p align="left">
-
-  <a href="https://www.instagram.com/laerte_dutra/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
-  <a href="https://www.twitch.tv/laerte_dutra" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
-  </a>
-
-  <a href="https://discord.gg/cSHRXVQVkG" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=laertelai12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <!-- LinkedIn (adicione quando quiser) -->
-  <!--
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  -->
-
+ <div> <a href="https://www.instagram.com/laerte_dutra/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.twitch.tv/laerte_dutra" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> <a href="https://discord.gg/cSHRXVQVkG" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=laertelai12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
 </p>
-
----
 
 ## ⚡ Skills & Tools
 
 ### 💻 Linguagens
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php" />
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
 
 ### 🌐 Web
 <img src="https://skillicons.dev/icons?i=html,css" />
 
 ### 🧰 Ferramentas
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-
----
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,pycharm,idea" />
 
 ## 📊 GitHub Status
 
@@ -102,8 +71,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tenpo0000&layout=compact&theme=tokyonight"
   />
 </p>
-
----
 
 <div align="center">
   <br/>
