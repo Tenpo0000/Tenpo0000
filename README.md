@@ -5,13 +5,13 @@
 </div> 
 -->
 
-<h2 align="center">Hi there! 👋 I'm Laerte Dutra</h2>
+<h2 align="center">Tenpo0000</h2>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=💻+Estudante+de+Programação;🚀+Futuro+Desenvolvedor+de+Aplicativos;☕+Transformando+café+em+código"
+      src="https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=32&pause=1000&color=DB6B80&center=true&vCenter=true&random=false&width=1200&lines=%E2%98%95+%22Ola+no+meu+perfil+voce+conseguira+ver+no+que+estou+trabalhando!;+%F0%9F%92%BB+Bem-Vindo+ao+meu+Perfil!" 
       alt="Typing Animation"
     />
   </a>
@@ -30,9 +30,11 @@
 <br/>
 
 <img 
-  align="right"
-  width="200"
-  src="https://media.tenor.com/f4VUloEfWN0AAAAM/zouvi-bem-v-indo.gif"
+  src="https://usagif.com/wp-content/uploads/funny-anime-gif-14.gif"
+  align="right" 
+  alt="coding-gif" 
+  width="344" 
+  style="margin-right: 20px; filter: saturate(119%);"
 />
 
 - 💻 **Estudante de Programação**
@@ -55,25 +57,36 @@
 ### 🌐 Web
 <img src="https://skillicons.dev/icons?i=html,css" />
 
+### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,supabase" />
+
 ### 🧰 Ferramentas
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,pycharm,idea" />
 
-## 📊 GitHub Status
-
-<p align="left">
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Tenpo0000&show_icons=true&theme=tokyonight"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tenpo0000&layout=compact&theme=tokyonight"
-  />
-</p>
+## 🚧 GitHub Status
 
 <div align="center">
+  <!-- <img 
+    width="398" 
+    src="https://github-readme-stats.vercel.app/api?username=lunabitriz&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"
+    alt="GitHub Stats"
+  /> -->
+  <img 
+    width="420" 
+    src="https://nirzak-streak-stats.vercel.app/?user=tenpo0000&theme=nord&hide_border=false" 
+    alt="GitHub Streak Stats"
+  />
+<br><br><br>
+
+<img 
+  align="center"
+  src="https://gifdb.com/images/high/cute-anime-cat-denzou-drinking-milk-z7qt7es2awwm6jcr.gif"
+    alt="Footer" 
+    width="300" 
+/>
+  
   <br/>
-  ⭐ **Obrigado por visitar meu perfil!**  
-  🚀 *Sempre evoluindo, um commit de cada vez.*
+  ⭐ Obrigado por visitar meu perfil
+  
+  🚀 Sempre evoluindo, um commit de cada vez
 </div>
