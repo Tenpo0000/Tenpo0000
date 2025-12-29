@@ -42,6 +42,7 @@
 - 🌱 Sempre aprendendo novas tecnologias
 - 🧠 Interesse em lógica, back-end e automação
 - ✨ Gosto de código limpo, performance e organização
+- 😻 Eu amo gatos!
 
 <br/>
 
