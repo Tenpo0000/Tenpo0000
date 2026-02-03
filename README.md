@@ -21,7 +21,7 @@
 <p align="center" style="padding: 0 48px;">
   🎓 Me chamo <strong>Laerte Dutra</strong>, tenho <strong>20 anos</strong>.  
   Concluí o ensino médio e o curso de <strong>Informática</strong>.  
-  Atualmente, curso <strong>Técnico em Programação de Aplicativos no SENAI</strong>, com foco em evoluir constantemente como desenvolvedor e construir soluções eficientes e bem estruturadas.
+  Atualmente, curso <strong>Técnico em Desenvolvimento de sistemas - SENAI</strong>, com foco em evoluir constantemente como desenvolvedor e construir soluções eficientes e bem estruturadas.
 </p>
 
 <br/><br/>
