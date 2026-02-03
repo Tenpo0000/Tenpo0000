@@ -29,14 +29,7 @@
 ##  Sobre mim
 <br/>
 
-<img 
-  src="https://usagif.com/wp-content/uploads/funny-anime-gif-14.gif"
-  align="right" 
-  alt="coding-gif" 
-  width="344" 
-  style="margin-right: 20px; filter: saturate(119%);"
-/>
-
+ 
 - 💻 **Estudante de Programação**
 - 📱 Foco em **desenvolvimento de aplicativos**
 - 🌱 Sempre aprendendo novas tecnologias
