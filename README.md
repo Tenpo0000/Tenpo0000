@@ -72,13 +72,13 @@
   />
 <br><br><br>
 
-<img 
+<!-- <img 
   align="center"
   src="https://gifdb.com/images/high/cute-anime-cat-denzou-drinking-milk-z7qt7es2awwm6jcr.gif"
     alt="Footer" 
     width="300" 
 />
-  
+<!-->  
   <br/>
   ⭐ Obrigado por visitar meu perfil
   
