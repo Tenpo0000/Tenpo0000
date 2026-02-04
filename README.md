@@ -26,7 +26,7 @@
 
 <br/><br/>
 
-##  Sobre mim
+## Sobre mim
 <br/>
 
  
@@ -55,17 +55,21 @@
 ### 🧰 Ferramentas
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,pycharm,idea" />
 <div align="center">
+  
   <!-- <img 
     width="398" 
     src="https://github-readme-stats.vercel.app/api?username=lunabitriz&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"
     alt="GitHub Stats"
   /> -->
+  
   <br><br>
-  <img 
-    width="420" 
+  
+  <img
+    width="420"
     src="https://nirzak-streak-stats.vercel.app/?user=tenpo0000&theme=nord&hide_border=false" 
     alt="GitHub Streak Stats"
   />
+  
 <br><br>
 
 <!-- <img 
