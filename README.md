@@ -54,9 +54,6 @@
 
 ### 🧰 Ferramentas
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,pycharm,idea" />
-
-## 🚧 GitHub Status
-
 <div align="center">
   <!-- <img 
     width="398" 
