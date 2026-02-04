@@ -60,12 +60,13 @@
     src="https://github-readme-stats.vercel.app/api?username=lunabitriz&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"
     alt="GitHub Stats"
   /> -->
+  <br>
   <img 
     width="420" 
     src="https://nirzak-streak-stats.vercel.app/?user=tenpo0000&theme=nord&hide_border=false" 
     alt="GitHub Streak Stats"
   />
-<br><br><br>
+<br><br>
 
 <!-- <img 
   align="center"
