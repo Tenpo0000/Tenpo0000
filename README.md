@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&utf-8&size=32&pause=1000&color=DB6B80&center=true&vCenter=true&random=false&width=1200&lines=%E2%98%95+Ola+no+meu+perfil+voce+conseguira+ver+no+que+estou+trabalhando!;+%F0%9F%92%BB+Bem-Vindo+ao+meu+Perfil!" 
+      src="https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&utf-8&size=32&pause=1000&color=DB6B80&center=true&vCenter=true&random=false&width=1200&lines=%E2%98%95+Olá+no+meu+perfil+voce+conseguira+ver+no+que+estou+trabalhando!;+%F0%9F%92%BB+Bem-Vindo+ao+meu+Perfil!" 
       alt="Typing Animation"
     />
   </a>
