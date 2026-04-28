@@ -44,10 +44,10 @@
 ##  Skills & Tools
 
 ###  Linguagens
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript" />
 
 ###  Web
-<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 
 ### Databases & Cloud
 <img src="https://skillicons.dev/icons?i=mysql,supabase" />
@@ -62,15 +62,14 @@
     alt="GitHub Stats"
   /> -->
   
+  <!--  
   <br><br>
-  
   <img
     width="420"
     src="https://nirzak-streak-stats.vercel.app/?user=tenpo0000&theme=nord&hide_border=false" 
     alt="GitHub Streak Stats"
   />
   
-<br><br>
 
 <!-- <img 
   align="center"
@@ -79,7 +78,7 @@
     width="300" 
 />
 <!-->  
-  <br/>
+<br><br><br/>
   ⭐ Obrigado por visitar meu perfil
   
   🚀 Sempre evoluindo, um commit de cada vez
