@@ -47,7 +47,7 @@
 <img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript" />
 
 ###  Web
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<img src="https://skillicons.dev/icons?i=html,css,react,next" />
 
 ### Databases & Cloud
 <img src="https://skillicons.dev/icons?i=mysql,supabase,prisma" />
