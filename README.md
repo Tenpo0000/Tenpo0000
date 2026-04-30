@@ -49,7 +49,7 @@
 ###  Web
 <img src="https://skillicons.dev/icons?i=html,css,react,next" />
 
-### Databases & Cloud
+### Databases & FrameWork
 <img src="https://skillicons.dev/icons?i=mysql,supabase,prisma,nest" />
 
 ###  Ferramentas
