@@ -31,7 +31,7 @@
 
  
 -  **Estudante de Programação**
--  Foco em **desenvolvimento de aplicativos**
+-  Foco em **Node.js, Nest, BackEnd, TypeScript e automoção*
 -  Sempre aprendendo novas tecnologias
 -  Interesse em lógica, back-end e automação
 -  Gosto de código limpo, performance e organização
