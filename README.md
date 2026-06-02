@@ -50,7 +50,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,react,next" />
 
 ### Databases & FrameWork
-<img src="https://skillicons.dev/icons?i=mysql,supabase,prisma,nest,express," />
+<img src="https://skillicons.dev/icons?i=mysql,supabase,prisma,nest,express,mongodb,nodejs" />
 
 ###  Ferramentas
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,pycharm,idea" />
