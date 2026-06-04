@@ -31,10 +31,9 @@
 
  
 -  **Estudante de Programação**
--  Foco em **Node.js, Nest, BackEnd, TypeScript e automoção*
+-  Foco em *Node.js, Nest, BackEnd, TypeScript e automoção*
 -  Sempre aprendendo novas tecnologias
--  Interesse em lógica, back-end e automação
--  Gosto de código limpo, performance e organização
+-  Interesse em lógica e back-end
 <br/>
 
 <p align="left">
